@@ -1,0 +1,3 @@
+ there are total 5 vowels in total alphabets
+the rest of are consonents
+total no of alphabets are twenty six
